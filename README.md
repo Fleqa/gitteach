@@ -1,2 +1,3 @@
 # gitteach
-Uca Marko git delje
+
+Uča Marko git delje!
